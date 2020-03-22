@@ -1,5 +1,0 @@
-Full name:Adewumi Adeayo Daniel
-Email address: danieladeayo@yahoo.com
-Slack username: adeayo
-Track: Backend
-Course: python
